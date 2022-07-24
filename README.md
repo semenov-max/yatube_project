@@ -7,8 +7,5 @@ Python 3.7
 Django 2.2.19
 
 ### Author
-<<<<<<< HEAD
 Max Semenov
 =======
-Max Semenov
->>>>>>> 012790cc8ce19b8c14255486ddd4f1661f75359e
